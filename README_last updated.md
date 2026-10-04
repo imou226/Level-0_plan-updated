@@ -189,6 +189,15 @@ Build a strong programming foundation in C#, learn relational database design an
 5. What is the difference between `DELETE`, `TRUNCATE`, and `DROP`?
 6. What is the difference between `CHAR` and `VARCHAR`?
 
+## LeetCode Database & SQL Interview Practice
+
+- [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) — basic `SELECT` and `WHERE`
+- [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) — filtering and `NULL`
+- [Big Countries](https://leetcode.com/problems/big-countries/) — conditions and selected columns
+- [Article Views I](https://leetcode.com/problems/article-views-i/) — `DISTINCT`, filtering, and ordering
+- [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) — string length and filtering
+- [LeetCode Database Problem Set](https://leetcode.com/problemset/database/) — additional database questions
+
 ---
 
 # Sprint 4 — SQL Querying and Joins
@@ -236,6 +245,16 @@ Build a strong programming foundation in C#, learn relational database design an
 4. Write a query that returns the highest salary in each department.
 5. Write a query that finds customers who have not placed an order.
 6. Explain the difference between `UNION` and `UNION ALL`.
+
+## LeetCode Database & SQL Interview Practice
+
+- [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) — `LEFT JOIN`
+- [Employee Bonus](https://leetcode.com/problems/employee-bonus/) — joining and filtering
+- [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) — missing relationships and anti-join logic
+- [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) — joins, missing matches, and grouping
+- [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) — `GROUP BY` and `HAVING`
+- [Rising Temperature](https://leetcode.com/problems/rising-temperature/) — self join and date comparison
+- [LeetCode Database Problem Set](https://leetcode.com/problemset/database/) — additional join and aggregation questions
 
 ---
 
@@ -303,6 +322,17 @@ Build a **Student Course Registration Database** containing:
 8. What is a CTE, and when is it useful?
 9. What is a view?
 10. How can SQL injection risk be reduced?
+
+## LeetCode Database & SQL Interview Practice
+
+- [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) — subquery and handling a missing result
+- [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) — reusable ranking logic
+- [Rank Scores](https://leetcode.com/problems/rank-scores/) — ranking and window functions
+- [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) — joins and maximum salary per group
+- [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) — ranking within departments
+- [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) — self join, grouping, and `HAVING`
+- [Exchange Seats](https://leetcode.com/problems/exchange-seats/) — conditional transformation
+- [LeetCode Database Problem Set](https://leetcode.com/problemset/database/) — additional intermediate and advanced SQL questions
 
 ---
 
@@ -422,17 +452,20 @@ Level-0_plan-updated/
 - [ ] Tables and constraints completed
 - [ ] CRUD script completed
 - [ ] SQL interview questions: ___/6
+- [ ] LeetCode Database problems: ___/5
 
 ### Sprint 4 — SQL Queries and Joins
 - [ ] Filtering and sorting queries completed
 - [ ] Aggregate queries completed
 - [ ] Joins completed
 - [ ] SQL interview questions: ___/6
+- [ ] LeetCode Database problems: ___/6
 
 ### Sprint 5 — Advanced SQL
 - [ ] Advanced SQL exercises completed
 - [ ] Student Course Registration Database completed
 - [ ] SQL interview questions: ___/10
+- [ ] LeetCode Database problems: ___/7
 
 ### Sprint 6 — OOP
 - [ ] OOP topics completed
